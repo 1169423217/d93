@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="fastjson-1.2.13">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../spring-mvc-1026/web/WEB-INF/lib/fastjson-1.2.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../spring-mvc-1026/web/WEB-INF/lib/jackson-annotations-2.7.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../spring-mvc-1026/web/WEB-INF/lib/jackson-core-2.7.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../spring-mvc-1026/web/WEB-INF/lib/jackson-databind-2.7.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

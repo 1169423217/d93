@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="aliyun-11-23" />
+        <module name="maven-11-3" />
+        <module name="maven-11-4" />
+        <module name="redis-11-22" />
+        <module name="shiro-11-6" />
+        <module name="shiro-11-8" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="aliyun-11-23" target="1.7" />
+      <module name="CRM" target="1.7" />
+      <module name="CRM-maven" target="1.5" />
+      <module name="maven-11-3" target="1.7" />
+      <module name="Maven-11-3" target="1.5" />
+      <module name="maven-11-3-1" target="1.5" />
+      <module name="maven-11-4" target="1.7" />
+      <module name="redis-11-22" target="1.7" />
+      <module name="shiro-11-6" target="1.5" />
+      <module name="shiro-11-8" target="1.7" />
+      <module name="shiro1161" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

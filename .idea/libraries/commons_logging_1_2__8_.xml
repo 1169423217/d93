@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="commons-logging-1.2 (8)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../oracle-923/lib/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../oracle-923/lib/druid-1.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../oracle-923/lib/ojdbc6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../oracle-923/lib/spring-beans-5.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../oracle-923/lib/spring-core-5.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../oracle-923/lib/spring-jdbc-5.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../oracle-923/lib/spring-tx-5.0.0.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

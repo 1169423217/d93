@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="cglib-nodep-2.1_3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Mybatis-1014/lib/cglib-nodep-2.1_3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Mybatis-1014/lib/junit-4.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Mybatis-1014/lib/log4j-1.2.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Mybatis-1014/lib/mybatis-3.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Mybatis-1014/lib/mysql-connector-java-5.1.37-bin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

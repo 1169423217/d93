@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="cglib-nodep-2.1_3 (5)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../spring-mybatis-1023/lib/cglib-nodep-2.1_3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../spring-mybatis-1023/lib/com.springsource.org.aopalliance-1.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../spring-mybatis-1023/lib/com.springsource.org.apache.commons.logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../spring-mybatis-1023/lib/com.springsource.org.aspectj.weaver-1.6.8.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../spring-mybatis-1023/lib/druid-1.1.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../spring-mybatis-1023/lib/log4j-1.2.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../spring-mybatis-1023/lib/mybatis-3.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../spring-mybatis-1023/lib/mybatis-spring-1.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../spring-mybatis-1023/lib/mysql-connector-java-5.1.37-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../spring-mybatis-1023/lib/spring-aop-4.2.4.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../spring-mybatis-1023/lib/spring-aspects-4.2.4.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../spring-mybatis-1023/lib/spring-beans-4.2.4.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../spring-mybatis-1023/lib/spring-context-4.2.4.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../spring-mybatis-1023/lib/spring-core-4.2.4.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../spring-mybatis-1023/lib/spring-expression-4.2.4.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../spring-mybatis-1023/lib/spring-jdbc-4.2.4.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../spring-mybatis-1023/lib/spring-orm-4.2.4.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../spring-mybatis-1023/lib/spring-tx-4.2.4.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

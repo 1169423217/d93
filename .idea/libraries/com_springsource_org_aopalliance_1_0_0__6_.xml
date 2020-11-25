@@ -1,0 +1,28 @@
+<component name="libraryTable">
+  <library name="com.springsource.org.aopalliance-1.0.0 (6)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Email-1030/web/WEB-INF/lib/com.springsource.org.aopalliance-1.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Email-1030/web/WEB-INF/lib/com.springsource.org.apache.commons.logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Email-1030/web/WEB-INF/lib/com.springsource.org.aspectj.weaver-1.6.8.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Email-1030/web/WEB-INF/lib/jstl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Email-1030/web/WEB-INF/lib/log4j-1.2.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Email-1030/web/WEB-INF/lib/mail-1.4.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Email-1030/web/WEB-INF/lib/quartz-2.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Email-1030/web/WEB-INF/lib/slf4j-api-1.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Email-1030/web/WEB-INF/lib/slf4j-log4j12-1.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Email-1030/web/WEB-INF/lib/spring-aop-4.2.4.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Email-1030/web/WEB-INF/lib/spring-aspects-4.2.4.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Email-1030/web/WEB-INF/lib/spring-beans-4.2.4.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Email-1030/web/WEB-INF/lib/spring-context-4.2.4.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Email-1030/web/WEB-INF/lib/spring-context-support-4.2.4.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Email-1030/web/WEB-INF/lib/spring-core-4.2.4.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Email-1030/web/WEB-INF/lib/spring-expression-4.2.4.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Email-1030/web/WEB-INF/lib/spring-tx-4.2.4.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Email-1030/web/WEB-INF/lib/spring-web-4.2.4.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Email-1030/web/WEB-INF/lib/spring-webmvc-4.2.4.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Email-1030/web/WEB-INF/lib/standard.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

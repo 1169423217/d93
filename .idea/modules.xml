@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Ajax9.9.iml" filepath="$PROJECT_DIR$/Ajax9.9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Ajkx-912-crud/Ajkx-912-crud.iml" filepath="$PROJECT_DIR$/../Ajkx-912-crud/Ajkx-912-crud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Ajkx-914-bbs/Ajkx-914-bbs.iml" filepath="$PROJECT_DIR$/../Ajkx-914-bbs/Ajkx-914-bbs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Ajkx-914-echarts/Ajkx-914-echarts.iml" filepath="$PROJECT_DIR$/../Ajkx-914-echarts/Ajkx-914-echarts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Ajkx9.11/Ajkx9.11.iml" filepath="$PROJECT_DIR$/../Ajkx9.11/Ajkx9.11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Ajkx9.16AliPay/Ajkx9.16AliPay.iml" filepath="$PROJECT_DIR$/../Ajkx9.16AliPay/Ajkx9.16AliPay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Ajkx9.19CRUD/Ajkx9.19CRUD.iml" filepath="$PROJECT_DIR$/../Ajkx9.19CRUD/Ajkx9.19CRUD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Ajkx9.21kaoshi/Ajkx9.21kaoshi.iml" filepath="$PROJECT_DIR$/../Ajkx9.21kaoshi/Ajkx9.21kaoshi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Ajkx_3jiliandong/Ajkx_3jiliandong.iml" filepath="$PROJECT_DIR$/../Ajkx_3jiliandong/Ajkx_3jiliandong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Email-1030/Email-1030.iml" filepath="$PROJECT_DIR$/../Email-1030/Email-1030.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../KaoShiSsm-11-24/KaoShiSsm-11-24.iml" filepath="$PROJECT_DIR$/../KaoShiSsm-11-24/KaoShiSsm-11-24.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Mybatis-1011/Mybatis-1011.iml" filepath="$PROJECT_DIR$/../Mybatis-1011/Mybatis-1011.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Mybatis-1014/Mybatis-1014.iml" filepath="$PROJECT_DIR$/../Mybatis-1014/Mybatis-1014.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Mybatis-1015/Mybatis-1015.iml" filepath="$PROJECT_DIR$/../Mybatis-1015/Mybatis-1015.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Mybatis-1016/Mybatis-1016.iml" filepath="$PROJECT_DIR$/../Mybatis-1016/Mybatis-1016.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Mybatis-1016-static/Mybatis-1016-static.iml" filepath="$PROJECT_DIR$/../Mybatis-1016-static/Mybatis-1016-static.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Mybatis-1017/Mybatis-1017.iml" filepath="$PROJECT_DIR$/../Mybatis-1017/Mybatis-1017.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../aliyun-11-23/aliyun-11-23.iml" filepath="$PROJECT_DIR$/../aliyun-11-23/aliyun-11-23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../git-11-25/git-11-25.iml" filepath="$PROJECT_DIR$/../git-11-25/git-11-25.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../maven-11-3/maven-11-3.iml" filepath="$PROJECT_DIR$/../maven-11-3/maven-11-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../maven-11-4/maven-11-4.iml" filepath="$PROJECT_DIR$/../maven-11-4/maven-11-4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../maven-11-git-11-25/maven-11-git-11-25.iml" filepath="$PROJECT_DIR$/../maven-11-git-11-25/maven-11-git-11-25.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../oracle-10-7/oracle-10-7.iml" filepath="$PROJECT_DIR$/../oracle-10-7/oracle-10-7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../oracle-923/oracle-923.iml" filepath="$PROJECT_DIR$/../oracle-923/oracle-923.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../quartz-11-1/quartz-11-1.iml" filepath="$PROJECT_DIR$/../quartz-11-1/quartz-11-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../redis-11-22/redis-11-22.iml" filepath="$PROJECT_DIR$/../redis-11-22/redis-11-22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../redis-java-11-22/redis-java-11-22.iml" filepath="$PROJECT_DIR$/../redis-java-11-22/redis-java-11-22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shiro-11-6/shiro-11-6.iml" filepath="$PROJECT_DIR$/../shiro-11-6/shiro-11-6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shiro-11-8/shiro-11-8.iml" filepath="$PROJECT_DIR$/../shiro-11-8/shiro-11-8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring-1021/spring-1019.iml" filepath="$PROJECT_DIR$/../spring-1021/spring-1019.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring-1021-1/spring-1021-1.iml" filepath="$PROJECT_DIR$/../spring-1021-1/spring-1021-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring-1023/spring-1023.iml" filepath="$PROJECT_DIR$/../spring-1023/spring-1023.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring-mvc-1026/spring-mvc-1026.iml" filepath="$PROJECT_DIR$/../spring-mvc-1026/spring-mvc-1026.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring-mybatis-1023/spring-mybatis-1023.iml" filepath="$PROJECT_DIR$/../spring-mybatis-1023/spring-mybatis-1023.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ssm-1028/ssm-1028.iml" filepath="$PROJECT_DIR$/../ssm-1028/ssm-1028.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ssm-UpDown-1028/ssm-UpDown-1028.iml" filepath="$PROJECT_DIR$/../ssm-UpDown-1028/ssm-UpDown-1028.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../webQuartz-11-1/webQuartz-11-1.iml" filepath="$PROJECT_DIR$/../webQuartz-11-1/webQuartz-11-1.iml" />
+    </modules>
+  </component>
+</project>

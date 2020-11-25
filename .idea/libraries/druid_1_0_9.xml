@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="druid-1.0.9">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Ajkx-912-crud/web/WEB-INF/lib/druid-1.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Ajkx-912-crud/web/WEB-INF/lib/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Ajkx-912-crud/web/WEB-INF/lib/fastjson-1.2.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Ajkx-912-crud/web/WEB-INF/lib/mysql-connector-java-3.1.10-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Ajkx-912-crud/web/WEB-INF/lib/javax.servlet-api-3.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Ajkx-912-crud/web/WEB-INF/lib/spring-beans-5.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Ajkx-912-crud/web/WEB-INF/lib/spring-core-5.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Ajkx-912-crud/web/WEB-INF/lib/spring-jdbc-5.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Ajkx-912-crud/web/WEB-INF/lib/spring-tx-5.0.0.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../Ajkx9.11/src" />
+    </SOURCES>
+  </library>
+</component>

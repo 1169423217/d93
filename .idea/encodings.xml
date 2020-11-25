@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../CRM" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../aliyun-11-23" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../aliyun-11-23" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../maven-11-3" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../maven-11-4" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../redis-11-22" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../shiro-11-6" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../shiro-11-8" charset="UTF-8" />
+  </component>
+</project>

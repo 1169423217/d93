@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../aliyun-11-23" />
+    <file type="web" url="file://$PROJECT_DIR$/../CRM" />
+    <file type="web" url="file://$PROJECT_DIR$/../CRM-maven" />
+    <file type="web" url="file://$PROJECT_DIR$/../maven-11-3" />
+    <file type="web" url="file://$PROJECT_DIR$/../maven-11-4" />
+    <file type="web" url="file://$PROJECT_DIR$/../redis-11-22" />
+    <file type="web" url="file://$PROJECT_DIR$/../shiro-11-8" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../maven-11-3/pom.xml" />
+        <option value="$PROJECT_DIR$/../maven-11-4/pom.xml" />
+        <option value="$PROJECT_DIR$/../shiro-11-6/pom.xml" />
+        <option value="$PROJECT_DIR$/../shiro-11-8/pom.xml" />
+        <option value="$PROJECT_DIR$/../CRM/pom.xml" />
+        <option value="$PROJECT_DIR$/../redis-11-22/pom.xml" />
+        <option value="$PROJECT_DIR$/../aliyun-11-23/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
